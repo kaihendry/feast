@@ -133,7 +133,7 @@
     <dependency>
       <groupId>io.pebbletemplates</groupId>
       <artifactId>pebble</artifactId>
-      <version>3.1.6</version>
+      <version>3.2.4</version>
     </dependency>
 
     <!--compile 'redis.clients:jedis:2.9.0'-->
@@ -209,7 +209,7 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-core</artifactId>
-      <version>5.4.24.Final</version>
+      <version>5.6.15.Final</version>
     </dependency>
 
     <!-- Utilities -->

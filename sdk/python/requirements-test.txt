@@ -9,11 +9,11 @@ grpcio==1.*
 numpy
 mock==2.0.0
 pandas==0.*
-protobuf==3.*
+protobuf==5.*
 pytest
 pytest-mock
 pytest-timeout
-PyYAML==5.1.2
+PyYAML==5.4
 fastavro==0.21.*
 grpcio-testing==1.*
 pytest-ordering==0.6.*
